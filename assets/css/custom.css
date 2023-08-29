@@ -9,20 +9,20 @@ font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
 a {
-color: #e2af78;
+color: #ac3d31;
 }
 
 h1 {
-color: #d87c4bff;
+color: #ac3d31;
 }
 
 h2 {
-color: #d87c4bff;
+color: #ac3d31;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
 h3 {
-color: #e2af78;
+color: #ac3d31;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
@@ -53,13 +53,13 @@ header, H1 {
 }
 
 main a {
-  background-color: #888;
+  background-color: #ac3d31;
   padding: 15px;
   margint: 15px;
   width: 80%;
   text-align: center;
-  border: 1px solid #d87c4bff;;
-  border-radius: 9px;
+  border: 1px solid #888;
+  border-radius: 5px;
   text-decoration: none
 }
 
