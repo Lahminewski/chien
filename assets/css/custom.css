@@ -53,12 +53,12 @@ header, H1 {
 }
 
 main a {
-  background-color: #ac3d31;
+  background-color: #000;
   padding: 15px;
   margint: 15px;
   width: 80%;
   text-align: center;
-  border: 1px solid #888;
+  border: 0px solid #888;
   border-radius: 5px;
   text-decoration: none
 }
