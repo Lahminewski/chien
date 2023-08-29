@@ -79,6 +79,10 @@ main li a {
   text-decoration: none
 }
 
+header, H1 {
+    display: none;
+}
+
 main img {
   border-radius: 50%;
   max-width: 250px;
