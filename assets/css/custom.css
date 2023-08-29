@@ -4,20 +4,20 @@
 
 body {
 color: #fff;
-background-color:#1f222a;
+background-color:#25252bff;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
 a {
-color: #ac3d31;
+color: #690900ff;
 }
 
 h1 {
-color: #ac3d31;
+color: #690900ff;
 }
 
 h2 {
-color: #ac3d31;
+color: #690900ff;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
@@ -48,10 +48,6 @@ body {
   text-align: center;
 }
 
-header, H1 {
-    display: none;
-}
-
 main a {
   background-color: #000;
   padding: 15px;
@@ -76,7 +72,7 @@ main ul {
 main li a {
   display: inline-block;
   font-size: 18px;
-  color: #ac3d31;
+  color: #690900ff;
   padding: 16px;
   text-decoration: none;
   text-align: center;
