@@ -8,5 +8,5 @@ order: 0
 Chien est un groupe de proto-punk coerrans de suisse romande.
 
 ## Réseaux (a)sociaux
-* [Canal Telegram](https://t.me/+8ba_JnCbH3hjMDM8)
+* [Telegram](https://t.me/+8ba_JnCbH3hjMDM8)
 * [Instagram](https://www.instagram.com/protochien/) 
