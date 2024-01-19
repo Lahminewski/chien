@@ -12,4 +12,4 @@ Chien est un groupe de proto-punk coerrant de suisse romande.
 * [Instagram](https://www.instagram.com/protochien/) 
 ---
 Prochain concert ...
-* [9 mars 2024 à La Bille](https://www.bille.ch/etn/the-bark-night/) 
+* [La Bille / 9 mars 2024 ](https://www.bille.ch/etn/the-bark-night/) 
